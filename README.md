@@ -34,5 +34,3 @@ Ensure you have R and the following libraries installed: `ggplot2`, `RColorBrewe
 3. **Data Visualization**: Generate visualizations to explore and understand the data.
 4. **Clustering**: Apply clustering techniques to find patterns in the data.
 5. **Association Rules**: Use association rule mining to discover interesting relationships between variables.
-
-## License
